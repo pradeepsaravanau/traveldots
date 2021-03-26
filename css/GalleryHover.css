@@ -268,7 +268,8 @@ p {
   width: 100%; }
 
 .navigation__item {
-  margin: 1rem; }
+  margin: 1rem;
+}
 
 .navigation__link:link, .navigation__link:visited {
   font-size: 3rem;
