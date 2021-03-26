@@ -196,9 +196,7 @@ p {
     transform: scale(1);
     transition: all 0.9s ease; }
 
-@media (max-width: 800px) {
-  body {
-    transform: scale(0.6); } }
+
 
 @media (max-width: 600px) {
   .wrapper {
